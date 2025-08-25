@@ -3,7 +3,7 @@
 A minimal, fast typing test to measure WPM and accuracy.
 
 <p align="center">
-  <img src="./public/image.png" alt="Just. Type. It. preview" width="720" />
+  <img src="./image.png" alt="Just. Type. It. preview" width="720" />
 </p>
 
 ### Features
@@ -46,7 +46,7 @@ This is a static site. Drag-and-drop to Vercel/Netlify, or host on GitHub Pages.
 ### Screenshots
 
 <p align="center">
-  <img src="./public/image2.png" alt="Typing test UI screenshot" width="720" />
+  <img src="./image2.png" alt="Typing test UI screenshot" width="720" />
 </p>
 
 ### Credits
