@@ -1,5 +1,5 @@
 # Just. Type. It.
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-%238C1007.svg?style=flat-square)](LICENSE)
 A minimal, fast typing test to measure WPM and accuracy.
 
 <p align="center">
@@ -39,7 +39,7 @@ python -m http.server 8080
 ```
 
 ### Deploy
-Live: `https://just-type-it.vercel.app`
+Live: https://just-type-it.vercel.app
 
 This is a static site. Drag-and-drop to Vercel/Netlify, or host on GitHub Pages.
 
@@ -53,7 +53,7 @@ This is a static site. Drag-and-drop to Vercel/Netlify, or host on GitHub Pages.
 Originally based on an open-source typing test by Ambresh Vaishya. This fork modernizes the UI and branding.
 
 ### Author
-Maintained by Sparsh Batra – `@sparshb4tra` (`https://github.com/sparshb4tra`).
+Maintained by Sparsh Batra – [@sparshb4tra](https://github.com/sparshb4tra).
 
 ### License
 MIT – see `LICENSE`.
