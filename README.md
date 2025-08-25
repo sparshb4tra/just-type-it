@@ -1,5 +1,6 @@
 # Just. Type. It.
 [![License: MIT](https://img.shields.io/badge/License-MIT-%238C1007.svg?style=flat-square)](LICENSE)
+<br>
 A minimal, fast typing test to measure WPM and accuracy.
 
 <p align="center">
